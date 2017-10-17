@@ -15,7 +15,7 @@ public class scr_basicEnemyMEMBERS : MonoBehaviour
 
 	//  S T A T S   --------------------
 	protected int hp = 100; //TODO:
-	static public float swaySpeed = 1f; //speed enemies sway around player back and forth when engaging
+	static public float swaySpeed = 1.2f; //speed enemies sway around player back and forth when engaging
 	static public float patrolSpd = 1.8f; 
 	static public float runSpd = 3.2f;
 	static public float rotSpd = 90.0f;
